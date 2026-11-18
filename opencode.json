@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "mi-mcp": {
+      "type": "local",
+      "command": [
+        "node",
+        "C:/mcp-starter-kit-main/dist/index.js"
+      ],
+      "enabled": true,
+      "timeout": 30000
+    }
+  }
+}
